@@ -1,0 +1,12 @@
+[
+  {
+    "userId": 12345678,
+    "username": "ScriptAbuser",
+    "reason": "Leaking paid script"
+  },
+  {
+    "userId": 87654321,
+    "username": "ToxicExecutor",
+    "reason": "Using blacklisted executor"
+  }
+]
